@@ -15,13 +15,13 @@
  */
 #pragma once
 
-#include <cuco/cuda_stream_ref.hpp>
-#include <cuco/detail/error.hpp>
-#include <cuco/detail/hyperloglog/hyperloglog_ref.cuh>
-#include <cuco/detail/storage/storage_base.cuh>
-#include <cuco/hash_functions.cuh>
-#include <cuco/types.cuh>
-#include <cuco/utility/cuda_thread_scope.cuh>
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/cuda_stream_ref.hpp"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/error.hpp"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/hyperloglog/hyperloglog_ref.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/storage/storage_base.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/hash_functions.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/types.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/utility/cuda_thread_scope.cuh"
 
 #include <cstddef>
 #include <iterator>

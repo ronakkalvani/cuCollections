@@ -16,11 +16,11 @@
 
 #pragma once
 
-#include <cuco/detail/error.hpp>
-#include <cuco/detail/prime.hpp>  // TODO move to detail/extent/
-#include <cuco/detail/utility/math.hpp>
-#include <cuco/detail/utils.hpp>
-#include <cuco/utility/fast_int.cuh>
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/error.hpp"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/prime.hpp"  // TODO move to detail/extent/
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/utility/math.hpp"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/utils.hpp"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/utility/fast_int.cuh"
 
 #include <type_traits>
 

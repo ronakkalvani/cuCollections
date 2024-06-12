@@ -15,7 +15,7 @@
 
 #pragma once
 
-#include <cuco/detail/utility/cuda.hpp>
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/utility/cuda.hpp"
 
 #if defined(CUCO_DISABLE_KERNEL_VISIBILITY_WARNING_SUPPRESSION)
 #define CUCO_SUPPRESS_KERNEL_WARNINGS

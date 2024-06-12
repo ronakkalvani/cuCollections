@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 #pragma once
-#include <cuco/detail/utility/cuda.cuh>
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/utility/cuda.cuh"
 
 #include <cub/block/block_reduce.cuh>
 #include <cuda/std/atomic>

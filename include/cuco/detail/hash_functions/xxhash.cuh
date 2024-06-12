@@ -16,8 +16,8 @@
 
 #pragma once
 
-#include <cuco/detail/hash_functions/utils.cuh>
-#include <cuco/extent.cuh>
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/hash_functions/utils.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/extent.cuh"
 
 #include <cstddef>
 #include <cstdint>

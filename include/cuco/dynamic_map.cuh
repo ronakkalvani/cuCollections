@@ -16,10 +16,10 @@
 
 #pragma once
 
-#include <cuco/detail/dynamic_map_kernels.cuh>
-#include <cuco/hash_functions.cuh>
-#include <cuco/static_map.cuh>
-#include <cuco/types.cuh>
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/dynamic_map_kernels.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/hash_functions.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/static_map.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/types.cuh"
 
 #include <cuda/std/atomic>
 #include <thrust/device_vector.h>

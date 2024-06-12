@@ -15,8 +15,8 @@
  */
 #pragma once
 
-#include <cuco/detail/utility/cuda.cuh>
-#include <cuco/utility/cuda_thread_scope.cuh>
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/utility/cuda.cuh"
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/utility/cuda_thread_scope.cuh"
 
 #include <cuda/std/array>
 #include <cuda/std/span>
