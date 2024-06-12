@@ -17,7 +17,7 @@
 #pragma once
 
 #include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/hash_functions/murmurhash3.cuh"
-#include <cuco/detail/hash_functions/xxhash.cuh>
+#include "/csproject/yike/intern/ronak/cuCollections/include/cuco/detail/hash_functions/xxhash.cuh"
 
 namespace cuco {
 
